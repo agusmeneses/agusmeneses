@@ -12,7 +12,7 @@
 
 ## 🚀 Sobre mí
 **Transformando datos crudos en ventajas competitivas.** 
-Soy Arquitecto de Analítica y Data Engineer con más de **2 años de experiencia** transformando datos complejos en infraestructura analítica de producción. Me especializo en diseñar pipelines escalables, modelar Data Warehouses y construir dashboards que aceleran las decisiones ejecutivas.
+Soy Data Engineer y Arquitecto de Analítica con más de **2 años de experiencia** transformando datos complejos en infraestructura analítica de producción. Me especializo en diseñar pipelines escalables, modelar Data Warehouses y construir dashboards que aceleran las decisiones ejecutivas.
 
 - 🔭 Actualmente trabajando como **Data Engineer** en el *Ministerio de Desarrollo*, modernizando los flujos de datos gubernamentales.
 - 🌱 Co-fundador de **Fondare**, un SaaS B2B para la gestión en la construcción.
