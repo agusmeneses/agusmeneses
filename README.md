@@ -13,9 +13,9 @@
 ## 🚀 Sobre mí
 **Transformando datos crudos en ventajas competitivas.** Experiencia diseñando pipelines ETL automatizados y arquitecturas escalables con Python, SQL y entornos cloud. Enfocado en transformar problemas complejos de negocio en respuestas claras basadas en datos, con capacidad para integrar modelos de IA generativa en entornos productivos.
 
-- 🔭 Actualmente trabajando como **Data Engineer** en el *Ministerio de Desarrollo*, modernizando los flujos de datos gubernamentales.
+- 🔭 Actualmente trabajando como **Data Engineer** en el *Ministerio de Desarrollo*.
 - 🌱 Co-fundador de **Fondare**, un SaaS B2B para la gestión en la construcción.
-- 🎓 Estudiante avanzado de **Ingeniería en Sistemas de Información** en la UTN FRRe (Graduación esperada: Sep 2027).
+- 🎓 Estudiante avanzado de **Ingeniería en Sistemas de Información** en la UTN (Graduación esperada: Sep 2027).
 
 ---
 
@@ -37,32 +37,10 @@
 
 ## 📊 Proyectos Destacados
 
-*Cada proyecto resuelve un problema de negocio concreto utilizando arquitecturas de datos de producción. Haz clic en los títulos para explorar los diagramas de arquitectura y el código.*
-
 | Proyecto | Descripción | Stack Tecnológico |
 |---|---|---|
 | **[Google Data Analytics Capstone](https://github.com/agusmeneses/Capstone-Google_Data_Analytics)** | **Proyecto que se presentó al gobierno de Corrientes:** Explora la relación histórica entre las variables meteorológicas y la propagación de incendios forestales usando datasets de la NASA y el INTA. | `Pandas` `PySpark` `Databricks` `Python` |
 | **[Modernización completa de flujo de Datos Gubernamentales](https://github.com/agusmeneses/MDS-Cloud_pipeline)** | **Pipeline ELT 100% Automatizado:** Centralización, anonimización y análisis de datos transaccionales para el Ministerio de Desarrollo Social. | `GCP` `BigQuery` `Cloud Run` `Python` `Looker` |
-| **[Arquitectura SaaS - Fondare](#)** | **ETLs impulsados por IA:** Diseño de esquemas en la nube y pipelines automatizados usando LLMs + API de WhatsApp para extraer y clasificar datos de facturas. | `PostgreSQL` `OpenAI API` `Python` `GCP` |
-| **[Powergreen](#)** | **Tracker de Huella de Carbono:** Proyecto final universitario integrando IA (Gemini) para automatizar el registro de emisiones mediante análisis de fotografías. | `Gemini API` `Firebase` `JS` |
 
 ---
-
-## 💼 Experiencia Profesional
-
-- **Data Engineer** @ *Ministerio de Desarrollo* (Abr 2026 - Actualidad)
-  - Diseño de pipelines ETL automatizados en GCP, migrando grandes volúmenes de datos hacia BigQuery garantizando la estricta anonimización y protección de datos sensibles.
-- **Co-fundador & Data Engineer** @ *Fondare* (Ene 2026 - Actualidad)
-  - Co-liderazgo técnico de un SaaS B2B. Diseño de esquemas en PostgreSQL y creación de ETLs con IA para automatizar la extracción de datos de comprobantes y facturas.
-- **Analista de Sistemas y Desarrollador** @ *Comercios Minoristas* (Abr 2025 - Ene 2026)
-  - Desarrollo de sistemas POS personalizados y scripts de automatización en Python/PowerShell para agilizar tareas operativas y control de stock.
-
----
-
-## 🏆 Educación y Certificaciones
-- **Ingeniería en Sistemas de Información** - *Universidad Tecnológica Nacional (UTN)* 
-- **Especialización en Python** - *University of Michigan*
-- **AZ-900 Azure Fundamentals** - *Microsoft*
-- **Bases de Datos y SQL para Data Science con Python** - *IBM*
-
 <br>
