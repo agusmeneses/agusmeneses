@@ -43,7 +43,7 @@ Soy Arquitecto de Analítica y Data Engineer con más de **2 años de experienci
 | Proyecto | Descripción | Stack Tecnológico |
 |---|---|---|
 | **[Google Data Analytics Capstone](https://github.com/agusmeneses/Capstone-Google_Data_Analytics)** | **Proyecto que se presentó al gobierno de Corrientes:** Explora la relación histórica entre las variables meteorológicas y la propagación de incendios forestales usando datasets de la NASA y el INTA. | `Pandas` `PySpark` `Databricks` `Python` |
-| **[Modernización de Datos Gubernamentales](#)** | **Pipeline ELT 100% Automatizado:** Centralización, anonimización y análisis de datos transaccionales para el Ministerio de Desarrollo Social. | `GCP` `BigQuery` `Cloud Run` `Python` `Looker` |
+| **[Modernización completa de flujo de Datos Gubernamentales](https://github.com/agusmeneses/MDS-Cloud_pipeline)** | **Pipeline ELT 100% Automatizado:** Centralización, anonimización y análisis de datos transaccionales para el Ministerio de Desarrollo Social. | `GCP` `BigQuery` `Cloud Run` `Python` `Looker` |
 | **[Arquitectura SaaS - Fondare](#)** | **ETLs impulsados por IA:** Diseño de esquemas en la nube y pipelines automatizados usando LLMs + API de WhatsApp para extraer y clasificar datos de facturas. | `PostgreSQL` `OpenAI API` `Python` `GCP` |
 | **[Powergreen](#)** | **Tracker de Huella de Carbono:** Proyecto final universitario integrando IA (Gemini) para automatizar el registro de emisiones mediante análisis de fotografías. | `Gemini API` `Firebase` `JS` |
 
