@@ -37,6 +37,8 @@
 
 ## 📊 Proyectos Destacados
 
+*Click en cada uno para acceder al repositorio*
+
 | Proyecto | Descripción | Stack Tecnológico |
 |---|---|---|
 | **[Google Data Analytics Capstone](https://github.com/agusmeneses/Capstone-Google_Data_Analytics)** | **Proyecto que se presentó al gobierno de Corrientes:** Explora la relación histórica entre las variables meteorológicas y la propagación de incendios forestales usando datasets de la NASA y el INTA. | `Pandas` `PySpark` `Databricks` `Python` |
