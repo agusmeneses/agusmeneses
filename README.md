@@ -19,6 +19,16 @@
 
 ---
 
+## 📊 Proyectos
+
+*Click en cada uno para acceder al repositorio*
+| Proyecto | Descripción | Stack Tecnológico |
+|---|---|---|
+| **[Google Data Analytics Capstone](https://github.com/agusmeneses/Capstone-Google_Data_Analytics)** | **Proyecto que se presentó al gobierno de Corrientes:** Explora la relación histórica entre las variables meteorológicas y la propagación de incendios forestales usando datasets de la NASA y el INTA. | `Pandas` `PySpark` `Databricks` `Python` |
+| **[MDS - Modernización completa de flujo de Datos](https://github.com/agusmeneses/MDS-Cloud_pipeline)** | **Pipeline ELT 100% Automatizado:** Centralización, anonimización y análisis de datos transaccionales para el Ministerio de Desarrollo Social. | `GCP` `BigQuery` `Cloud Run` `Python` `Looker` |
+
+---
+
 ## 🛠️ Stack Tecnológico
 
 **Ingeniería y Procesamiento de Datos**
@@ -32,17 +42,6 @@
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP" />
 <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-
----
-
-## 📊 Proyectos Destacados
-
-*Click en cada uno para acceder al repositorio*
-
-| Proyecto | Descripción | Stack Tecnológico |
-|---|---|---|
-| **[Google Data Analytics Capstone](https://github.com/agusmeneses/Capstone-Google_Data_Analytics)** | **Proyecto que se presentó al gobierno de Corrientes:** Explora la relación histórica entre las variables meteorológicas y la propagación de incendios forestales usando datasets de la NASA y el INTA. | `Pandas` `PySpark` `Databricks` `Python` |
-| **[MDS - Modernización completa de flujo de Datos](https://github.com/agusmeneses/MDS-Cloud_pipeline)** | **Pipeline ELT 100% Automatizado:** Centralización, anonimización y análisis de datos transaccionales para el Ministerio de Desarrollo Social. | `GCP` `BigQuery` `Cloud Run` `Python` `Looker` |
 
 ---
 <br>
