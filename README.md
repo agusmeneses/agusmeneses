@@ -24,8 +24,8 @@
 *Click en cada uno para acceder al repositorio*
 | Proyecto | Descripción | Stack Tecnológico |
 |---|---|---|
-| **[Google Data Analytics Capstone](https://github.com/agusmeneses/Capstone-Google_Data_Analytics)** | **Proyecto que se presentó al gobierno de Corrientes:** Explora la relación histórica entre las variables meteorológicas y la propagación de incendios forestales usando datasets de la NASA y el INTA. | `Pandas` `PySpark` `Databricks` `Python` |
-| **[MDS - Modernización completa de flujo de Datos](https://github.com/agusmeneses/MDS-Cloud_pipeline)** | **Pipeline ELT 100% Automatizado:** Centralización, anonimización y análisis de datos transaccionales para el Ministerio de Desarrollo Social. | `GCP` `BigQuery` `Cloud Run` `Python` `Looker` |
+| **[Impacto Climático y Focos de Calor en Corrientes](https://github.com/agusmeneses/Capstone-Google_Data_Analytics)** | **Proyecto realizado como entrega final para el certificado de Data Analytics de Google y presentado al Gobierno de Corrientes:** Explora la relación histórica entre las variables meteorológicas y la propagación de incendios forestales usando datasets de la NASA y el INTA. | `Pandas` `PySpark` `Databricks` `Python` |
+| **[Modernización Completa de Flujo de Datos](https://github.com/agusmeneses/MDS-Cloud_pipeline)** | **Construcción de Pipeline ELT 100% Automatizado para el Ministerio de Desarrollo:** Centralización, enmascaramiento de datos sensibles y modelado analítico de registros transaccionales mediante ingesta diaria desde servidores on-premise hacia la nube. | `GCP` `BigQuery` `Cloud Run` `Python` `Looker` |
 
 ---
 
